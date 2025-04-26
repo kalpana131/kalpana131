@@ -1,6 +1,6 @@
 👋 Hi, I’m Kalpana <br>
 👀 I’m interested in Data Analysis and Data Visualization. <br>
-🌱 I’m currently learning Python and Data Visuaization. <br>
+🌱 I’m currently learning Python and Data Visualization. <br>
 💞️ I’m looking to a Data Analyst role to apply my analytical knowledge in data oriented role. <br>
 📫 You can contact me on singhkalpana1020@gmail.com <br>
 ⚡ I'm also a Dancer. <br>
